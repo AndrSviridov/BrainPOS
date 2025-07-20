@@ -1,0 +1,291 @@
+Time,Log,EventID,Type,EXE,Source,Inserts
+2025-07-16 15:47:02,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-16 15:45:59,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-16 15:30:55,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-16 14:07:48,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"1650141192586124178; 5; StoreAgentScanForUpdatesFailure0; Нет данных; 0; Update;; 80080005; 26100; 4061; Windows.Desktop; ; ; ; ; ; 
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.a90f57af-74b3-4583-8b3b-175318ab01cc.tmp.WERInternalMetadata.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_92bfb41b7bb63e232bc4642786ce63e39b24a46_00000000_d89da18e-ad10-4dc2-9433-d01d574092ff; ; 0; d89da18e-ad10-4dc2-9433-d01d574092ff; 268435456; 49d321a7b93e823446e67aabfd55db92; 0"
+2025-07-16 14:07:46,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-16 14:07:46,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,; 0; StoreAgentScanForUpdatesFailure0; Нет данных; 0; Update;; 80080005; 26100; 4061; Windows.Desktop; ; ; ; ; ; ; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;_92bfb41b7bb63e232bc4642786ce63e39b24a46_00000000_d89da18e-ad10-4dc2-9433-d01d574092ff; ; 0; d89da18e-ad10-4dc2-9433-d01d574092ff; 4; ; 0
+2025-07-16 14:03:45,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"1650141192586124178; 5; StoreAgentScanForUpdatesFailure0; Нет данных; 0; Update;; 80080005; 26100; 4061; Windows.Desktop; ; ; ; ; ; 
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.6ccb4b85-0ad1-48be-8529-a86a204f5eee.tmp.WERInternalMetadata.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_92bfb41b7bb63e232bc4642786ce63e39b24a46_00000000_60c84fb9-62ae-4be6-9c68-5ac5f59702ca; ; 0; 60c84fb9-62ae-4be6-9c68-5ac5f59702ca; 268435456; 49d321a7b93e823446e67aabfd55db92; 0"
+2025-07-16 14:03:44,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-16 14:03:43,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,; 0; StoreAgentScanForUpdatesFailure0; Нет данных; 0; Update;; 80080005; 26100; 4061; Windows.Desktop; ; ; ; ; ; ; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;_92bfb41b7bb63e232bc4642786ce63e39b24a46_00000000_60c84fb9-62ae-4be6-9c68-5ac5f59702ca; ; 0; 60c84fb9-62ae-4be6-9c68-5ac5f59702ca; 4; ; 0
+2025-07-16 13:12:48,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"1650141192586124178; 5; StoreAgentScanForUpdatesFailure0; Нет данных; 0; Update;; 80080005; 26100; 4061; Windows.Desktop; ; ; ; ; ; 
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.6059b31b-8128-4b18-9149-5919738609e5.tmp.WERInternalMetadata.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_92bfb41b7bb63e232bc4642786ce63e39b24a46_00000000_99ce8d2a-97f8-4a59-971f-b43cdc72ec7c; ; 0; 99ce8d2a-97f8-4a59-971f-b43cdc72ec7c; 268435456; 49d321a7b93e823446e67aabfd55db92; 0"
+2025-07-16 13:12:46,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-16 13:12:45,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,; 0; StoreAgentScanForUpdatesFailure0; Нет данных; 0; Update;; 80080005; 26100; 4061; Windows.Desktop; ; ; ; ; ; ; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;_92bfb41b7bb63e232bc4642786ce63e39b24a46_00000000_99ce8d2a-97f8-4a59-971f-b43cdc72ec7c; ; 0; 99ce8d2a-97f8-4a59-971f-b43cdc72ec7c; 4; ; 0
+2025-07-16 12:50:59,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-16 12:42:45,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-16 11:57:07,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-16 11:57:05,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-16 09:20:48,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-16 08:21:17,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-16 08:21:13,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-16 02:10:58,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 23:10:39,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 22:33:46,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 21:07:22,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 20:25:57,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 20:11:14,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 19:53:25,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 19:43:07,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 19:42:56,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 19:25:21,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 19:22:09,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 19:22:08,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 19:06:06,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 15:47:27,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 15:42:36,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"2252190926033557348; 5; RADAR_PRE_LEAK_64; Нет данных; 0; soffice.bin; 25.2.4.3; 10.0.26100.2.0.0; ; ; ; ; ; ; ; 
+\\?\C:\Users\az123\AppData\Local\Temp\RDRC76F.tmp\empty.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.abba8a55-058d-4e86-8d44-e5d1c5357f5b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.5d5ba1b2-f9b1-4434-80c1-2d6157a7630e.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.7d40a511-5c6c-4f1d-9247-eeedbff8c118.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.1f11f09f-29b7-4cc9-a898-ac6f24502cc0.tmp.xml; NULL; ; 0; 841bb43e-76ff-4ee4-a7b5-4a3f7b190964; 268435456; 7810d118124506648f4163b6f0969764; 0"
+2025-07-15 11:39:14,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 10:05:28,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 10:04:11,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 10:02:29,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 09:19:37,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 09:19:35,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 01:42:27,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"1650141192586124178; 5; StoreAgentScanForUpdatesFailure0; Нет данных; 0; Update;; 80080005; 26100; 4061; Windows.Desktop; ; ; ; ; ; 
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.c7213541-a950-497f-a600-7b2dae1c75ef.tmp.WERInternalMetadata.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_92bfb41b7bb63e232bc4642786ce63e39b24a46_00000000_7f0621f2-813e-43cb-9ea3-10deb69b5e79; ; 0; 7f0621f2-813e-43cb-9ea3-10deb69b5e79; 268435456; 49d321a7b93e823446e67aabfd55db92; 0"
+2025-07-15 01:42:24,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-15 01:42:24,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,; 0; StoreAgentScanForUpdatesFailure0; Нет данных; 0; Update;; 80080005; 26100; 4061; Windows.Desktop; ; ; ; ; ; ; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\NonCritical_Update;_92bfb41b7bb63e232bc4642786ce63e39b24a46_00000000_7f0621f2-813e-43cb-9ea3-10deb69b5e79; ; 0; 7f0621f2-813e-43cb-9ea3-10deb69b5e79; 4; ; 0
+2025-07-14 23:21:58,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-14 23:13:06,Application,1001,Отчёт об ошибке,Dell.CoreServices.Client.exe,Windows Error Reporting,"1777568722085759584; 5; RADAR_PRE_LEAK_64; Нет данных; 0; Dell.CoreServices.Client.exe; 1.5.25.5; 10.0.26100.2.0.0; ; ; ; ; ; ; ; 
+\\?\C:\Users\az123\AppData\Local\Temp\RDRDB6A.tmp\empty.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.8b7dd385-e226-4060-90f7-722ba2162646.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.bcb9b00f-2c29-47e1-9e21-86b561c8ccd3.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.b0788ad0-f358-4e09-b9e7-0b89f93d72c4.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2266881f-e484-485b-87b0-65bca6a0fb05.tmp.xml; NULL; ; 0; f5f44124-f668-41ff-8a05-411ae828c1a3; 268435456; d8c028baeedda537d8ab3155b3c44a60; 0"
+2025-07-14 21:32:57,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-14 21:29:46,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
+2025-07-14 19:25:03,Application,1001,Отчёт об ошибке,Windows Error Reporting,Windows Error Reporting,"; 0; LiveKernelEvent; Нет данных; 0; 117; ffffce8d9b019010; fffff8026f4f1db0; 0; ffffce8d7ca21080; 10_0_26100; 0_0; 256_1; ; ; 
+\\?\C:\WINDOWS\LiveKernelReports\WATCHDOG\WATCHDOG-20250408-0352.dmp
+\\?\C:\WINDOWS\SystemTemp\WER-493806828-0.sysdata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.732b7f20-e347-4e43-9a5c-6897ef7af86d.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.576f4893-566f-49ce-a5c7-4f43a2457934.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2a020be4-2a75-4c20-8482-71038576b939.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.306561cd-169a-4043-ba75-b89600042dfb.tmp.xml; \\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\Kernel_117_973e5749109c2b58917c445a156c8abaa26b036_00000000_bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; ; 0; bb8641d0-59ba-4ea1-885e-228ae7ad7a3b; 2051; ; 0"
