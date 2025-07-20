@@ -1,0 +1,4 @@
+{
+  "llama_path": "C:/AI/llama/llama-run.exe",
+  "model_path": "C:/AI/models/ruadapt-qwen2.5-3b-instruct-v4.Q4_K_M.gguf"
+}

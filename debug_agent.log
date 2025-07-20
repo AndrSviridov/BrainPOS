@@ -1,0 +1,336 @@
+2025-07-05 16:35:26,484 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 16:35:26,500 [ERROR] Ошибка импорта main.py: No module named 'core'
+Traceback (most recent call last):
+  File "C:\AI\SmartPOS\\U0001f6e0_debug_launcher.py", line 23, in <module>
+    spec.loader.exec_module(agent_main)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\AI\SmartPOS\smart_pos_agent\main.py", line 4, in <module>
+    from core import diagnostics, monitor
+ModuleNotFoundError: No module named 'core'
+2025-07-05 16:39:19,112 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 16:39:20,129 [ERROR] Ошибка импорта main.py: No module named 'core'
+Traceback (most recent call last):
+  File "C:\AI\SmartPOS\\U0001f6e0_debug_launcher.py", line 23, in <module>
+    spec.loader.exec_module(agent_main)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\AI\SmartPOS\smart_pos_agent\main.py", line 122, in <module>
+    from core.diagnostics import get_diagnostics_summary
+ModuleNotFoundError: No module named 'core'
+2025-07-05 16:42:25,839 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 16:42:25,867 [ERROR] Ошибка импорта main.py: cannot import name 'get_diagnostics_summary' from 'smart_pos_agent.core.diagnostics' (C:\AI\SmartPOS\smart_pos_agent\core\diagnostics.py)
+Traceback (most recent call last):
+  File "C:\AI\SmartPOS\\U0001f6e0_debug_launcher.py", line 23, in <module>
+    spec.loader.exec_module(agent_main)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\AI\SmartPOS\smart_pos_agent\main.py", line 5, in <module>
+    from smart_pos_agent.gui import assistant_ui
+  File "C:\AI\SmartPOS\smart_pos_agent\gui\assistant_ui.py", line 8, in <module>
+    from smart_pos_agent.core.diagnostics import get_diagnostics_summary
+ImportError: cannot import name 'get_diagnostics_summary' from 'smart_pos_agent.core.diagnostics' (C:\AI\SmartPOS\smart_pos_agent\core\diagnostics.py)
+2025-07-05 16:48:08,652 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 16:48:08,715 [ERROR] Ошибка импорта main.py: No module named 'core'
+Traceback (most recent call last):
+  File "C:\AI\SmartPOS\\U0001f6e0_debug_launcher.py", line 23, in <module>
+    spec.loader.exec_module(agent_main)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\AI\SmartPOS\smart_pos_agent\main.py", line 122, in <module>
+    from core.diagnostics import get_diagnostics_summary
+ModuleNotFoundError: No module named 'core'
+2025-07-05 16:48:19,400 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 16:48:19,606 [ERROR] Ошибка импорта main.py: No module named 'core'
+Traceback (most recent call last):
+  File "C:\AI\SmartPOS\\U0001f6e0_debug_launcher.py", line 23, in <module>
+    spec.loader.exec_module(agent_main)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\AI\SmartPOS\smart_pos_agent\main.py", line 122, in <module>
+    from core.diagnostics import get_diagnostics_summary
+ModuleNotFoundError: No module named 'core'
+2025-07-05 16:58:25,270 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 16:58:25,309 [ERROR] Ошибка импорта main.py: No module named 'core'
+Traceback (most recent call last):
+  File "C:\AI\SmartPOS\debug_launcher.py", line 23, in <module>
+    spec.loader.exec_module(agent_main)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\AI\SmartPOS\smart_pos_agent\main.py", line 122, in <module>
+    from core.diagnostics import get_diagnostics_summary
+ModuleNotFoundError: No module named 'core'
+2025-07-05 17:01:27,540 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 17:06:53,166 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 17:06:53,209 [INFO] Smart POS Agent started.
+2025-07-05 17:06:53,209 [DEBUG] Running basic system checks...
+2025-07-05 17:06:54,210 [INFO] CPU Usage: 11.5%
+2025-07-05 17:06:54,235 [INFO] Memory Total: 16849256448, Available: 2382782464, Used: 14466473984, Percent: 85.9%
+2025-07-05 17:06:54,237 [INFO] Disk C:\: Total: 508737613824, Used: 301384876032, Free: 207352737792, Percent: 59.2%
+2025-07-05 17:06:54,237 [INFO] USB Devices: []
+2025-07-05 17:06:54,237 [INFO] System checks completed successfully.
+2025-07-05 17:06:54,237 [DEBUG] Running initial diagnostics...
+2025-07-05 17:06:54,957 [INFO] CPU Load: 0.0, Temperature: N/A
+2025-07-05 17:06:54,957 [INFO] Initial diagnostics completed.
+2025-07-05 17:06:54,957 [DEBUG] Launching GUI assistant...
+2025-07-05 17:10:24,038 [ERROR] AI call failed: Command '['C:/AI/llama/llama-run.exe', '--threads', '4', '--context-size', '2048', 'C:/AI/models/ruadapt-qwen2.5-3b-instruct-v4.Q4_K_M.gguf']' timed out after 60 seconds
+2025-07-05 17:30:07,699 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 17:30:07,747 [INFO] Smart POS Agent started.
+2025-07-05 17:30:07,747 [DEBUG] Running basic system checks...
+2025-07-05 17:30:08,761 [INFO] CPU Usage: 9.5%
+2025-07-05 17:30:08,783 [INFO] Memory Total: 16849256448, Available: 3907297280, Used: 12941959168, Percent: 76.8%
+2025-07-05 17:30:08,783 [INFO] Disk C:\: Total: 508737613824, Used: 301391564800, Free: 207346049024, Percent: 59.2%
+2025-07-05 17:30:08,783 [INFO] USB Devices: []
+2025-07-05 17:30:08,785 [INFO] System checks completed successfully.
+2025-07-05 17:30:08,785 [DEBUG] Running initial diagnostics...
+2025-07-05 17:30:09,111 [INFO] CPU Load: 0.0, Temperature: N/A
+2025-07-05 17:30:09,111 [INFO] Initial diagnostics completed.
+2025-07-05 17:30:09,111 [DEBUG] Launching GUI assistant...
+2025-07-05 17:33:42,988 [INFO] GUI assistant launched successfully.
+2025-07-05 17:33:49,863 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 17:33:49,895 [INFO] Smart POS Agent started.
+2025-07-05 17:33:49,895 [DEBUG] Running basic system checks...
+2025-07-05 17:33:50,904 [INFO] CPU Usage: 7.5%
+2025-07-05 17:33:50,924 [INFO] Memory Total: 16849256448, Available: 4830920704, Used: 12018335744, Percent: 71.3%
+2025-07-05 17:33:50,924 [INFO] Disk C:\: Total: 508737613824, Used: 301395189760, Free: 207342424064, Percent: 59.2%
+2025-07-05 17:33:50,924 [INFO] USB Devices: []
+2025-07-05 17:33:50,924 [INFO] System checks completed successfully.
+2025-07-05 17:33:50,924 [DEBUG] Running initial diagnostics...
+2025-07-05 17:33:51,254 [INFO] CPU Load: 0.0, Temperature: N/A
+2025-07-05 17:33:51,254 [INFO] Initial diagnostics completed.
+2025-07-05 17:33:51,254 [DEBUG] Launching GUI assistant...
+2025-07-05 17:33:59,468 [INFO] GUI assistant launched successfully.
+2025-07-05 18:48:04,774 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 18:48:04,813 [INFO] Smart POS Agent started.
+2025-07-05 18:48:04,813 [DEBUG] Running basic system checks...
+2025-07-05 18:48:05,824 [INFO] CPU Usage: 13.9%
+2025-07-05 18:48:05,836 [INFO] Memory Total: 16849256448, Available: 2038439936, Used: 14810816512, Percent: 87.9%
+2025-07-05 18:48:05,836 [INFO] Disk C:\: Total: 508737613824, Used: 301540405248, Free: 207197208576, Percent: 59.3%
+2025-07-05 18:48:05,836 [INFO] USB Devices: []
+2025-07-05 18:48:05,836 [INFO] System checks completed successfully.
+2025-07-05 18:48:05,836 [DEBUG] Running initial diagnostics...
+2025-07-05 18:48:06,186 [INFO] CPU Load: 0.0, Temperature: N/A
+2025-07-05 18:48:06,186 [INFO] Initial diagnostics completed.
+2025-07-05 18:48:06,186 [DEBUG] Launching GUI assistant...
+2025-07-05 18:52:04,078 [INFO] GUI assistant launched successfully.
+2025-07-05 18:52:06,297 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 18:52:06,347 [INFO] Smart POS Agent started.
+2025-07-05 18:52:06,347 [DEBUG] Running basic system checks...
+2025-07-05 18:52:07,349 [INFO] CPU Usage: 5.7%
+2025-07-05 18:52:07,364 [INFO] Memory Total: 16849256448, Available: 2383073280, Used: 14466183168, Percent: 85.9%
+2025-07-05 18:52:07,364 [INFO] Disk C:\: Total: 508737613824, Used: 301548130304, Free: 207189483520, Percent: 59.3%
+2025-07-05 18:52:07,364 [INFO] USB Devices: []
+2025-07-05 18:52:07,364 [INFO] System checks completed successfully.
+2025-07-05 18:52:07,364 [DEBUG] Running initial diagnostics...
+2025-07-05 18:52:08,375 [INFO] CPU Usage: 7.3%, Temperature: N/A
+2025-07-05 18:52:08,375 [INFO] Initial diagnostics completed.
+2025-07-05 18:52:08,375 [DEBUG] Launching GUI assistant...
+2025-07-05 18:52:52,249 [INFO] GUI assistant launched successfully.
+2025-07-05 18:53:08,051 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 18:53:08,097 [INFO] Smart POS Agent started.
+2025-07-05 18:53:08,097 [DEBUG] Running basic system checks...
+2025-07-05 18:53:09,097 [INFO] CPU Usage: 9.2%
+2025-07-05 18:53:09,118 [INFO] Memory Total: 16849256448, Available: 1459212288, Used: 15390044160, Percent: 91.3%
+2025-07-05 18:53:09,118 [INFO] Disk C:\: Total: 508737613824, Used: 301549219840, Free: 207188393984, Percent: 59.3%
+2025-07-05 18:53:09,118 [INFO] USB Devices: []
+2025-07-05 18:53:09,118 [INFO] System checks completed successfully.
+2025-07-05 18:53:09,118 [DEBUG] Running initial diagnostics...
+2025-07-05 18:53:10,122 [INFO] CPU Usage: 6.4%, Temperature: N/A
+2025-07-05 18:53:10,122 [INFO] Initial diagnostics completed.
+2025-07-05 18:53:10,122 [DEBUG] Launching GUI assistant...
+2025-07-05 18:58:16,463 [INFO] GUI assistant launched successfully.
+2025-07-05 18:58:22,209 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 18:58:22,238 [INFO] Smart POS Agent started.
+2025-07-05 18:58:22,238 [DEBUG] Running basic system checks...
+2025-07-05 18:58:23,252 [INFO] CPU Usage: 7.6%
+2025-07-05 18:58:23,296 [INFO] Memory Total: 16849256448, Available: 1798823936, Used: 15050432512, Percent: 89.3%
+2025-07-05 18:58:23,298 [INFO] Disk C:\: Total: 508737613824, Used: 301554020352, Free: 207183593472, Percent: 59.3%
+2025-07-05 18:58:23,298 [INFO] USB Devices: []
+2025-07-05 18:58:23,298 [INFO] System checks completed successfully.
+2025-07-05 18:58:23,300 [DEBUG] Running initial diagnostics...
+2025-07-05 18:58:24,303 [INFO] CPU Usage: 13.0%, Temperature: N/A
+2025-07-05 18:58:24,303 [INFO] Initial diagnostics completed.
+2025-07-05 18:58:24,303 [DEBUG] Launching GUI assistant...
+2025-07-05 18:58:25,723 [DEBUG] Running initial diagnostics...
+2025-07-05 18:58:26,731 [INFO] CPU Usage: 10.9%, Temperature: N/A
+2025-07-05 18:58:26,731 [INFO] Initial diagnostics completed.
+2025-07-05 18:58:49,024 [DEBUG] Running initial diagnostics...
+2025-07-05 18:58:50,030 [INFO] CPU Usage: 20.6%, Temperature: N/A
+2025-07-05 18:58:50,031 [INFO] Initial diagnostics completed.
+2025-07-05 18:58:54,500 [DEBUG] Running initial diagnostics...
+2025-07-05 18:58:55,501 [INFO] CPU Usage: 6.1%, Temperature: N/A
+2025-07-05 18:58:55,501 [INFO] Initial diagnostics completed.
+2025-07-05 18:58:58,929 [DEBUG] Running initial diagnostics...
+2025-07-05 18:58:59,931 [INFO] CPU Usage: 9.9%, Temperature: N/A
+2025-07-05 18:58:59,931 [INFO] Initial diagnostics completed.
+2025-07-05 18:59:03,689 [DEBUG] Running initial diagnostics...
+2025-07-05 18:59:04,694 [INFO] CPU Usage: 9.1%, Temperature: N/A
+2025-07-05 18:59:04,694 [INFO] Initial diagnostics completed.
+2025-07-05 18:59:17,654 [DEBUG] Running initial diagnostics...
+2025-07-05 18:59:18,666 [INFO] CPU Usage: 8.6%, Temperature: N/A
+2025-07-05 18:59:18,666 [INFO] Initial diagnostics completed.
+2025-07-05 19:06:24,200 [INFO] GUI assistant launched successfully.
+2025-07-05 19:08:26,075 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 19:08:26,935 [INFO] Smart POS Agent started.
+2025-07-05 19:08:26,935 [DEBUG] Running basic system checks...
+2025-07-05 19:08:27,948 [INFO] CPU Usage: 9.6%
+2025-07-05 19:08:27,971 [INFO] Memory Total: 16849256448, Available: 2737766400, Used: 14111490048, Percent: 83.8%
+2025-07-05 19:08:27,973 [INFO] Disk C:\: Total: 508737613824, Used: 301574475776, Free: 207163138048, Percent: 59.3%
+2025-07-05 19:08:27,973 [INFO] USB Devices: []
+2025-07-05 19:08:27,973 [INFO] System checks completed successfully.
+2025-07-05 19:08:27,973 [DEBUG] Running initial diagnostics...
+2025-07-05 19:08:28,438 [WARNING] CPU health check failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:08:28,438 [INFO] Initial diagnostics completed.
+2025-07-05 19:08:28,438 [DEBUG] Launching GUI assistant...
+2025-07-05 19:08:29,783 [DEBUG] Running initial diagnostics...
+2025-07-05 19:08:30,086 [WARNING] CPU health check failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:08:30,086 [INFO] Initial diagnostics completed.
+2025-07-05 19:08:32,811 [DEBUG] Running initial diagnostics...
+2025-07-05 19:08:33,085 [WARNING] CPU health check failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:08:33,089 [INFO] Initial diagnostics completed.
+2025-07-05 19:10:37,575 [INFO] GUI assistant launched successfully.
+2025-07-05 19:10:45,749 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 19:10:45,843 [INFO] Smart POS Agent started.
+2025-07-05 19:10:45,843 [DEBUG] Running basic system checks...
+2025-07-05 19:10:46,851 [INFO] CPU Usage: 13.3%
+2025-07-05 19:10:46,863 [INFO] Memory Total: 16849256448, Available: 2524135424, Used: 14325121024, Percent: 85.0%
+2025-07-05 19:10:46,863 [INFO] Disk C:\: Total: 508737613824, Used: 301573148672, Free: 207164465152, Percent: 59.3%
+2025-07-05 19:10:46,863 [INFO] USB Devices: []
+2025-07-05 19:10:46,863 [INFO] System checks completed successfully.
+2025-07-05 19:10:46,863 [DEBUG] Running initial diagnostics...
+2025-07-05 19:10:47,103 [WARNING] WMI load failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:10:48,107 [INFO] CPU Usage: 9.6%, Source: psutil, Temperature: N/A
+2025-07-05 19:10:48,107 [INFO] Initial diagnostics completed.
+2025-07-05 19:10:48,107 [DEBUG] Launching GUI assistant...
+2025-07-05 19:10:49,521 [DEBUG] Running initial diagnostics...
+2025-07-05 19:10:49,800 [WARNING] WMI load failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:10:50,803 [INFO] CPU Usage: 11.3%, Source: psutil, Temperature: N/A
+2025-07-05 19:10:50,803 [INFO] Initial diagnostics completed.
+2025-07-05 19:11:25,284 [DEBUG] Running initial diagnostics...
+2025-07-05 19:11:25,620 [WARNING] WMI load failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:11:26,621 [INFO] CPU Usage: 9.1%, Source: psutil, Temperature: N/A
+2025-07-05 19:11:26,621 [INFO] Initial diagnostics completed.
+2025-07-05 19:11:30,889 [DEBUG] Running initial diagnostics...
+2025-07-05 19:11:31,161 [WARNING] WMI load failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:11:32,163 [INFO] CPU Usage: 8.2%, Source: psutil, Temperature: N/A
+2025-07-05 19:11:32,163 [INFO] Initial diagnostics completed.
+2025-07-05 19:11:36,168 [DEBUG] Running initial diagnostics...
+2025-07-05 19:11:36,409 [WARNING] WMI load failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:11:37,415 [INFO] CPU Usage: 6.0%, Source: psutil, Temperature: N/A
+2025-07-05 19:11:37,415 [INFO] Initial diagnostics completed.
+2025-07-05 19:11:42,994 [DEBUG] Running initial diagnostics...
+2025-07-05 19:11:43,335 [WARNING] WMI load failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:11:44,336 [INFO] CPU Usage: 7.9%, Source: psutil, Temperature: N/A
+2025-07-05 19:11:44,336 [INFO] Initial diagnostics completed.
+2025-07-05 19:11:49,057 [DEBUG] Running initial diagnostics...
+2025-07-05 19:11:49,345 [WARNING] WMI load failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:11:50,349 [INFO] CPU Usage: 7.6%, Source: psutil, Temperature: N/A
+2025-07-05 19:11:50,349 [INFO] Initial diagnostics completed.
+2025-07-05 19:11:55,456 [INFO] GUI assistant launched successfully.
+2025-07-05 19:53:59,306 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 19:53:59,375 [INFO] Smart POS Agent started.
+2025-07-05 19:53:59,375 [DEBUG] Running basic system checks...
+2025-07-05 19:54:00,381 [INFO] CPU Usage: 12.0%
+2025-07-05 19:54:00,397 [INFO] Memory Total: 16849256448, Available: 1901158400, Used: 14948098048, Percent: 88.7%
+2025-07-05 19:54:00,397 [INFO] Disk C:\: Total: 508737613824, Used: 301574324224, Free: 207163289600, Percent: 59.3%
+2025-07-05 19:54:00,397 [INFO] USB Devices: []
+2025-07-05 19:54:00,397 [INFO] System checks completed successfully.
+2025-07-05 19:54:00,397 [DEBUG] Running initial diagnostics...
+2025-07-05 19:54:00,738 [WARNING] win32com WMI call failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:54:01,739 [INFO] CPU Usage: 9.5%, Source: psutil, Temperature: N/A
+2025-07-05 19:54:01,739 [INFO] Initial diagnostics completed.
+2025-07-05 19:54:01,739 [DEBUG] Launching GUI assistant...
+2025-07-05 19:54:03,679 [DEBUG] Running initial diagnostics...
+2025-07-05 19:54:03,995 [WARNING] win32com WMI call failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:54:04,999 [INFO] CPU Usage: 6.6%, Source: psutil, Temperature: N/A
+2025-07-05 19:54:05,002 [INFO] Initial diagnostics completed.
+2025-07-05 19:54:12,865 [DEBUG] Running initial diagnostics...
+2025-07-05 19:54:13,186 [WARNING] win32com WMI call failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:54:14,187 [INFO] CPU Usage: 9.4%, Source: psutil, Temperature: N/A
+2025-07-05 19:54:14,187 [INFO] Initial diagnostics completed.
+2025-07-05 19:54:17,224 [DEBUG] Running initial diagnostics...
+2025-07-05 19:54:17,509 [WARNING] win32com WMI call failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:54:18,521 [INFO] CPU Usage: 7.8%, Source: psutil, Temperature: N/A
+2025-07-05 19:54:18,521 [INFO] Initial diagnostics completed.
+2025-07-05 19:54:21,519 [DEBUG] Running initial diagnostics...
+2025-07-05 19:54:21,822 [WARNING] win32com WMI call failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:54:22,825 [INFO] CPU Usage: 8.5%, Source: psutil, Temperature: N/A
+2025-07-05 19:54:22,828 [INFO] Initial diagnostics completed.
+2025-07-05 19:54:26,847 [DEBUG] Running initial diagnostics...
+2025-07-05 19:54:27,157 [WARNING] win32com WMI call failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:54:28,159 [INFO] CPU Usage: 21.9%, Source: psutil, Temperature: N/A
+2025-07-05 19:54:28,159 [INFO] Initial diagnostics completed.
+2025-07-05 19:54:30,346 [DEBUG] Running initial diagnostics...
+2025-07-05 19:54:30,566 [WARNING] win32com WMI call failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:54:31,570 [INFO] CPU Usage: 51.2%, Source: psutil, Temperature: N/A
+2025-07-05 19:54:31,574 [INFO] Initial diagnostics completed.
+2025-07-05 19:54:38,367 [DEBUG] Running initial diagnostics...
+2025-07-05 19:54:38,638 [WARNING] win32com WMI call failed: float() argument must be a string or a real number, not 'NoneType'
+2025-07-05 19:54:39,655 [INFO] CPU Usage: 8.7%, Source: psutil, Temperature: N/A
+2025-07-05 19:54:39,655 [INFO] Initial diagnostics completed.
+2025-07-05 19:54:43,888 [INFO] GUI assistant launched successfully.
+2025-07-05 20:00:33,979 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 20:00:34,218 [INFO] Smart POS Agent started.
+2025-07-05 20:00:34,218 [DEBUG] Running basic system checks...
+2025-07-05 20:00:35,220 [INFO] CPU Usage: 11.5%
+2025-07-05 20:00:35,238 [INFO] Memory Total: 16849256448, Available: 2658385920, Used: 14190870528, Percent: 84.2%
+2025-07-05 20:00:35,238 [INFO] Disk C:\: Total: 508737613824, Used: 301828648960, Free: 206908964864, Percent: 59.3%
+2025-07-05 20:00:35,238 [INFO] USB Devices: []
+2025-07-05 20:00:35,238 [INFO] System checks completed successfully.
+2025-07-05 20:00:35,238 [DEBUG] Running initial diagnostics...
+2025-07-05 20:00:35,301 [INFO] OS: Windows 10, Build: 10.0.26100
+2025-07-05 20:00:36,699 [INFO] CPU Usage: 11.2%, Source: psutil, Temperature: N/A
+2025-07-05 20:00:36,699 [INFO] Initial diagnostics completed.
+2025-07-05 20:00:36,699 [DEBUG] Launching GUI assistant...
+2025-07-05 20:00:38,682 [DEBUG] Running initial diagnostics...
+2025-07-05 20:00:38,682 [INFO] OS: Windows 10, Build: 10.0.26100
+2025-07-05 20:00:39,989 [INFO] CPU Usage: 8.7%, Source: psutil, Temperature: N/A
+2025-07-05 20:00:39,992 [INFO] Initial diagnostics completed.
+2025-07-05 20:01:04,341 [DEBUG] Running initial diagnostics...
+2025-07-05 20:01:04,341 [INFO] OS: Windows 10, Build: 10.0.26100
+2025-07-05 20:01:05,597 [INFO] CPU Usage: 11.1%, Source: psutil, Temperature: N/A
+2025-07-05 20:01:05,597 [INFO] Initial diagnostics completed.
+2025-07-05 20:01:15,034 [INFO] GUI assistant launched successfully.
+2025-07-05 20:04:47,158 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 20:04:47,238 [INFO] Smart POS Agent started.
+2025-07-05 20:04:47,238 [DEBUG] Running basic system checks...
+2025-07-05 20:04:48,239 [INFO] CPU Usage: 10.3%
+2025-07-05 20:04:48,259 [INFO] Memory Total: 16849256448, Available: 2246144000, Used: 14603112448, Percent: 86.7%
+2025-07-05 20:04:48,259 [INFO] Disk C:\: Total: 508737613824, Used: 301832847360, Free: 206904766464, Percent: 59.3%
+2025-07-05 20:04:48,261 [INFO] USB Devices: []
+2025-07-05 20:04:48,261 [INFO] System checks completed successfully.
+2025-07-05 20:04:48,261 [DEBUG] Running initial diagnostics...
+2025-07-05 20:04:48,330 [INFO] OS: Windows 10, Build: 10.0.26100 (Windows 10 Pro)
+2025-07-05 20:04:49,675 [INFO] CPU Usage: 12.6%, Source: psutil, Temperature: N/A
+2025-07-05 20:04:49,675 [INFO] Initial diagnostics completed.
+2025-07-05 20:04:49,675 [DEBUG] Launching GUI assistant...
+2025-07-05 20:04:51,250 [DEBUG] Running initial diagnostics...
+2025-07-05 20:04:51,250 [INFO] OS: Windows 10, Build: 10.0.26100 (Windows 10 Pro)
+2025-07-05 20:04:52,573 [INFO] CPU Usage: 13.0%, Source: psutil, Temperature: N/A
+2025-07-05 20:04:52,573 [INFO] Initial diagnostics completed.
+2025-07-05 20:06:47,572 [INFO] GUI assistant launched successfully.
+2025-07-05 21:19:43,210 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 21:19:43,266 [ERROR] Ошибка импорта main.py: No module named 'core'
+Traceback (most recent call last):
+  File "C:\AI\SmartPOS\debug_launcher.py", line 23, in <module>
+    spec.loader.exec_module(agent_main)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\AI\SmartPOS\smart_pos_agent\main.py", line 5, in <module>
+    from smart_pos_agent.gui import assistant_ui
+  File "C:\AI\SmartPOS\smart_pos_agent\gui\assistant_ui.py", line 6, in <module>
+    from core.diagnostics import get_diagnostics_summary
+ModuleNotFoundError: No module named 'core'
+2025-07-05 21:27:35,063 [INFO] \U0001f7e1 Импорт main.py через importlib
+2025-07-05 21:27:35,109 [ERROR] Ошибка импорта main.py: No module named 'core'
+Traceback (most recent call last):
+  File "C:\AI\SmartPOS\debug_launcher.py", line 23, in <module>
+    spec.loader.exec_module(agent_main)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "C:\AI\SmartPOS\smart_pos_agent\main.py", line 5, in <module>
+    from smart_pos_agent.gui import assistant_ui
+  File "C:\AI\SmartPOS\smart_pos_agent\gui\assistant_ui.py", line 6, in <module>
+    from core.diagnostics import get_diagnostics_summary
+ModuleNotFoundError: No module named 'core'
